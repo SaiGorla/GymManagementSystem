@@ -1,0 +1,15 @@
+com\example\gymmanager\controllers\ProductController.class
+com\example\gymmanager\models\Instructor.class
+com\example\gymmanager\models\Member.class
+com\example\gymmanager\models\Product.class
+com\example\gymmanager\repos\InstructorRepository.class
+com\example\gymmanager\controllers\ScheduleController.class
+com\example\gymmanager\GymManagementSystemApplication.class
+com\example\gymmanager\controllers\BMICalculatorController.class
+com\example\gymmanager\repos\ProductRepository.class
+com\example\gymmanager\models\Schedule.class
+com\example\gymmanager\repos\MemberRepository.class
+com\example\gymmanager\models\BMI.class
+com\example\gymmanager\repos\ScheduleRepository.class
+com\example\gymmanager\controllers\MemberController.class
+com\example\gymmanager\controllers\InstructorController.class
